@@ -22,8 +22,9 @@ still learning about how the digital world works , and I'm a ML/DL & LLM Enthusi
 ![](https://streak-stats.demolab.com/?user=MedBhr-source&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MedBhr-source&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MedBhr-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 
 
