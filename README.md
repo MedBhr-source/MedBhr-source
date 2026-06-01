@@ -25,6 +25,5 @@ still learning about how the digital world works , and I'm a ML/DL & LLM Enthusi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MedBhr-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Fav Quote
-![]("I don't use white them; because it attracts Bugs")
+
 
